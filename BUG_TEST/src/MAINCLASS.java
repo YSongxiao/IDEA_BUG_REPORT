@@ -1,0 +1,10 @@
+public class MAINCLASS {
+    public static void main(String[] args) {
+        //System.out.println(TEST.NOTE_THAT_THE_CONTENT_CASE_IN_THIS_ENUM_MATCHES_THE_CASE_OF_THE_CLASS_NAME_AND_THAT_OF_ENUM_NAME);
+    }
+}
+/*
+enum TEST{
+    NOTE_THAT_THE_CONTENT_CASE_IN_THIS_ENUM_MATCHES_THE_CASE_OF_THE_CLASS_NAME_AND_THAT_OF_ENUM_NAME
+}
+*/
